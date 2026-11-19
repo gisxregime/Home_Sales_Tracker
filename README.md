@@ -1,0 +1,1 @@
+A C# Windows Forms application for recording and managing salesperson transactions. It tracks individual sales totals for Danielle, Edward, and Fatima, provides transaction confirmations, and generates a summary report of accumulated sales. Built as part of a C# programming activity to practice Windows Forms, event handling, methods, and class-level variables.
